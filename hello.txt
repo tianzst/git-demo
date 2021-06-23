@@ -20,3 +20,6 @@ hello git!
 
 this is hot-fox branch!
 my name is linhuchong !
+
+I want load by ssh!
+
